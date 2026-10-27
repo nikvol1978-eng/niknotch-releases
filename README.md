@@ -6,7 +6,7 @@ version of [Atoll](https://github.com/Atoll-Labs/Atoll), which is built on
 
 - **New to NikNotch?** Download the `.dmg` from the [latest release](../../releases/latest) and open
   "READ ME FIRST" inside it.
-- **Already have it?** NikNotch updates itself (Settings → Software Update). Copies installed before version 2.3
+- **Already have it?** NikNotch updates itself (Settings → Software Update). Copies from before automatic updates
   need this DMG once; after that, updates arrive automatically.
 
 Every update is signed, and NikNotch refuses anything that isn't. Installed copies read `appcast.xml` from the
