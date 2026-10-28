@@ -9,6 +9,9 @@ your Mac.
 
 **[⬇ Download the latest version](../../releases/latest)**: under **Assets**, click the `.dmg` file.
 
+**[♥ Support NikNotch](https://buy.stripe.com/cNidR29M89oa4fV5Cs7wA03)**: NikNotch is free. If you enjoy it, you can
+chip in any amount you like (suggested A$5). Thank you!
+
 ---
 
 ## What it does
@@ -120,6 +123,12 @@ release.
 - **AirPods' battery doesn't show:** make sure they're connected to this Mac (Bluetooth menu), and that NikNotch has
   Bluetooth permission.
 - **To remove it:** right-click the notch → Quit, then move NikNotch from Applications to the Bin.
+
+## Support NikNotch
+
+NikNotch is free and stays free. If it's useful to you, you can support it with a small donation, any amount you
+like: **[support NikNotch](https://buy.stripe.com/cNidR29M89oa4fV5Cs7wA03)**. There's also a **Support NikNotch**
+button in NikNotch's Settings → About.
 
 ---
 
