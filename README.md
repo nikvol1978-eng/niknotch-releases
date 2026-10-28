@@ -17,6 +17,8 @@ chip in any amount you like (suggested A$5). Thank you!
 ## What it does
 
 - **Music:** album art and a moving visualiser in the notch; play, pause and skip from it, or swipe sideways.
+- **Music wallpaper (optional):** while a song plays, your desktop can show its cover over a soft blur in the
+  cover's colours. Your own wallpaper comes back when the music stops. Settings → Media → Desktop wallpaper.
 - **Smart Notch:** when several things are going on (music, a timer, a meeting, an AI agent), the notch shows what
   matters most. Swipe or click the dots to switch, and see them all in the **Live** tab.
 - **Notifications** from your apps appear in the notch for a few seconds.
