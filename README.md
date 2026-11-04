@@ -1,6 +1,8 @@
-# NikNotch
+# Combo Notch
 
-**NikNotch turns your MacBook's notch into a live island.** Music, timers, notifications, your AirPods' battery,
+*Combo Notch was called NikNotch until version 2.6.5. If you have NikNotch, it updates itself to Combo Notch.*
+
+**Combo Notch turns your MacBook's notch into a live island.** Music, timers, notifications, your AirPods' battery,
 your calendar and more appear right where the camera is, and grow into a full panel when you hover over them.
 
 It's a modified version of [Atoll](https://github.com/Atoll-Labs/Atoll), which is built on
@@ -9,7 +11,7 @@ your Mac.
 
 **[⬇ Download the latest version](../../releases/latest)**: under **Assets**, click the `.dmg` file.
 
-**[♥ Support NikNotch](https://buy.stripe.com/cNidR29M89oa4fV5Cs7wA03)**: NikNotch is free. If you enjoy it, you can
+**[♥ Support Combo Notch](https://buy.stripe.com/cNidR29M89oa4fV5Cs7wA03)**: Combo Notch is free. If you enjoy it, you can
 chip in any amount you like (suggested A$5). Thank you!
 
 ---
@@ -34,37 +36,37 @@ chip in any amount you like (suggested A$5). Thank you!
 
 ## How to install
 
-Takes about 5 minutes. macOS blocks the app the first time it opens, because NikNotch is a free personal project and
+Takes about 5 minutes. macOS blocks the app the first time it opens, because Combo Notch is a free personal project and
 isn't registered with Apple's paid developer programme. Steps 3 and 4 show how to allow it, and you only do that once.
 
 **Before you start:** if you use Boring Notch, NotchNook or Atoll, quit it. Two notch apps at once fight over the notch.
 
 ### 1. Download
-Open the [latest release](../../releases/latest) and, under **Assets**, click **`NikNotch-<version>.dmg`**.
+Open the [latest release](../../releases/latest) and, under **Assets**, click **`ComboNotch-<version>.dmg`**.
 Double-click the downloaded file.
 
 ### 2. Drag it into Applications
-A window opens showing **NikNotch**, an arrow, and your **Applications** folder. Drag NikNotch onto Applications.
+A window opens showing **Combo Notch**, an arrow, and your **Applications** folder. Drag Combo Notch onto Applications.
 ("READ ME FIRST" in that window has these same instructions.)
 
 ### 3. Open it, and click Done when macOS blocks it
-Open your Applications folder and double-click **NikNotch**. macOS shows a message like:
+Open your Applications folder and double-click **Combo Notch**. macOS shows a message like:
 
-> **"NikNotch" Not Opened**
-> Apple could not verify "NikNotch" is free of malware that may harm your Mac or compromise your privacy.
+> **"Combo Notch" Not Opened**
+> Apple could not verify "Combo Notch" is free of malware that may harm your Mac or compromise your privacy.
 
 Click **Done**. Don't click "Move to Bin". The exact wording varies between macOS versions.
 
 ### 4. Allow it in Privacy & Security
 1. Open **System Settings** and click **Privacy & Security** in the sidebar.
-2. Scroll down to **Security**. There's a line saying NikNotch was blocked.
+2. Scroll down to **Security**. There's a line saying Combo Notch was blocked.
 3. Click **Open Anyway**, confirm with Touch ID or your password, then click **Open**.
 
-No "Open Anyway" button? Try opening NikNotch once more (step 3) and come back. It shows for about an hour after
+No "Open Anyway" button? Try opening Combo Notch once more (step 3) and come back. It shows for about an hour after
 the last attempt.
 
 ### 5. The welcome screens
-NikNotch opens with a short setup. Each screen explains itself, and everything is optional:
+Combo Notch opens with a short setup. Each screen explains itself, and everything is optional:
 - **Camera:** only for the mirror, a quick look at yourself from the notch.
 - **Calendar:** to show your upcoming events.
 - **Music:** pick the app you play music with (Spotify, Apple Music…).
@@ -81,7 +83,7 @@ macOS asks the first time a feature needs each one:
 | Calendar, Reminders | Your events and reminders in the notch |
 | Camera | The mirror, and Face Unlock if you turn it on |
 
-For **Accessibility**, macOS shows a pop-up: click **Open System Settings** and switch NikNotch on in the list.
+For **Accessibility**, macOS shows a pop-up: click **Open System Settings** and switch Combo Notch on in the list.
 
 That's it. **Hover over the notch** to open it.
 
@@ -93,7 +95,7 @@ That's it. **Hover over the notch** to open it.
 - **Swipe down** on the notch to open it, **up** to close it, **sideways** to switch between what's running.
 - **⌃⌥Space** opens the command bar.
 - **Right-click the notch → Settings** to change anything, or to quit.
-- NikNotch starts by itself when you log in (turn that off in Settings → General).
+- Combo Notch starts by itself when you log in (turn that off in Settings → General).
 
 ## Face Unlock (experimental, off by default)
 
@@ -106,11 +108,11 @@ a photo of you won't unlock it. You can switch it off, and delete everything it 
 
 ## Updates
 
-NikNotch updates itself. It checks once a day, downloads new versions in the background, and installs them the next
+Combo Notch updates itself. It checks once a day, downloads new versions in the background, and installs them the next
 time it quits (for example when you restart). Your settings and permissions are kept, and there's no warning to
 click through again. To update straight away: **Settings → Software Update → Restart to Update**.
 
-Every update is signed, and NikNotch refuses anything that isn't. Installed copies read `appcast.xml` from the latest
+Every update is signed, and Combo Notch refuses anything that isn't. Installed copies read `appcast.xml` from the latest
 release.
 
 **Got NikNotch before version 2.3?** Those copies can't update themselves. Install the latest DMG once by hand
@@ -120,21 +122,21 @@ release.
 
 - **The notch flickers, or two things fight over it:** another notch app is running. Quit it, and remove it from
   System Settings → General → Login Items.
-- **No notifications in the notch:** switch NikNotch on in System Settings → Privacy & Security → Accessibility, and
-  check the app isn't switched off in NikNotch's Settings → Appearance.
-- **AirPods' battery doesn't show:** make sure they're connected to this Mac (Bluetooth menu), and that NikNotch has
+- **No notifications in the notch:** switch Combo Notch on in System Settings → Privacy & Security → Accessibility, and
+  check the app isn't switched off in Combo Notch's Settings → Appearance.
+- **AirPods' battery doesn't show:** make sure they're connected to this Mac (Bluetooth menu), and that Combo Notch has
   Bluetooth permission.
-- **To remove it:** right-click the notch → Quit, then move NikNotch from Applications to the Bin.
+- **To remove it:** right-click the notch → Quit, then move Combo Notch from Applications to the Bin.
 
-## Support NikNotch
+## Support Combo Notch
 
-NikNotch is free and stays free. If it's useful to you, you can support it with a small donation, any amount you
-like: **[support NikNotch](https://buy.stripe.com/cNidR29M89oa4fV5Cs7wA03)**. There's also a **Support NikNotch**
-button in NikNotch's Settings → About.
+Combo Notch is free and stays free. If it's useful to you, you can support it with a small donation, any amount you
+like: **[support Combo Notch](https://buy.stripe.com/cNidR29M89oa4fV5Cs7wA03)**. There's also a **Support Combo Notch**
+button in Combo Notch's Settings → About.
 
 ---
 
-NikNotch is free software under the GNU General Public License v3. Each DMG includes the complete source code
-("NikNotch source code.zip") and the licences of everything it uses. Face Unlock is based on
+Combo Notch is free software under the GNU General Public License v3. Each DMG includes the complete source code
+("Combo Notch source code.zip") and the licences of everything it uses. Face Unlock is based on
 [Glance](https://github.com/jonnyoo/glance) (MIT). Not affiliated with or endorsed by Apple, or the Atoll, Boring
 Notch or Glance authors.
